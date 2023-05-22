@@ -15,9 +15,7 @@ Note: You will need at least 100 images of each organism. Lower quality images w
 
 #### To run the image classification model, follow these steps:
 
-1. Clone this repository to your local machine:
-<br>
-
+1. Clone this repository to your local machine: 
 
 2. Prepare your dataset as described in the Dataset section and ensure the folder structure matches the expected format.
 
